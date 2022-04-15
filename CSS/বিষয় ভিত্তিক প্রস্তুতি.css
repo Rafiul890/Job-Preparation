@@ -1,0 +1,38 @@
+/*menu text*/
+.menu-text-color{
+    color: white;
+  }
+  
+  /*row to column convert*/
+  .row-col
+  {
+    float: left;
+    margin-left:60px;
+    color: rgb(116, 31, 0);
+  }
+  /*card text*/
+  .card-text{
+    margin-top: 60px;
+    font-size: x-large;
+  }
+
+  /*backgroud color */
+
+  .sub-back-color{
+      background-color: rgb(1, 1, 83);
+      
+  }
+
+  /*Headline*/
+  .position{
+      text-align: center;
+      color: rgb(0, 0, 0);
+      font-size: 40px;
+      background-color: rgb(202, 81, 60) ;
+      padding: 0%;
+      width: 93%;
+      margin-left: 62px;
+      opacity:0.8;
+  }
+
+ 

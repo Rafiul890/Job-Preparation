@@ -1,0 +1,59 @@
+/*background color*/
+
+.sub-back-color{
+  background-color: rgb(1, 1, 83);
+  
+}
+
+/*card-title-text*/
+.card-title{
+  text-align: center;
+}
+
+/*text link*/
+.text-style
+{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+/*
+.notice-board{
+  background-color: rgb(255, 255, 255);
+  opacity: 0.7;
+  text-align: center;
+
+  
+}
+/*Notice board*/
+.text-1{
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: x-large;
+  
+  
+}
+
+.text-2{
+  text-align: center;
+  color: red;
+  
+  
+}
+
+.notice-board-size{
+  width: 100%;
+}
+/*Footer-text-about-contact us*/
+.ulist1{
+  float: left;
+  margin-left: 100px;
+}
+
+
+/*Footer-text-addr-phn-email*/
+.ulist2{
+  float: left;
+  margin-left: 100px;
+  margin-top: 25px;
+}
